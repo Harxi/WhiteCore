@@ -12,7 +12,7 @@
 
 <h2>Links</h2>
 
-[![](https://img.shields.io/discord/980921193949450281?color=ff69b4&label=WhiteCore%20Discord%20Server)](https://discord.gg/x8QBM4KqeH)
+[![](https://img.shields.io/discord/980921193949450281?color=ff69b4&label=WhiteCore%20Discord%20Server)](https://discord.gg/qjpmHYZqjA)
 
 <h2 >License</h2>
 
