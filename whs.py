@@ -5,7 +5,7 @@ import lexer
 
 class Data():
 	variables = []
-	cache = []
+	cache = {}
 	# FOR CORE DON'T EDIT #
 	libName = []
 	libImp = []
