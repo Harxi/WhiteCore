@@ -85,5 +85,5 @@ class Core():
 				for ptdindex, method in enumerate(keyword):
 					if token[0][0] == method:
 						exec(f'lib[index].{Data.libFunc[index][ptdindex]}')
-						print(Basic.Tokens.TokenSplits)
+						
 	# FOR CORE DON'T EDIT #
