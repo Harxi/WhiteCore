@@ -1,5 +1,5 @@
 #WhiteCore 0.0.3 by Harxi
-#Email: sup.harxi@gmail.com
+#Email: sup.harzi@gmail.com
 
 import lexer
 
