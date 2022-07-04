@@ -6,13 +6,14 @@
 ![](https://img.shields.io/badge/WhiteCore_created_by-Harxi-A97FF1)
 ![](https://img.shields.io/badge/WhiteCore_verison-0.0.3-A97FF1)
 ![](https://img.shields.io/github/stars/Harxi/WhiteCore?color=A97FF1&label=WhiteCore%20Stars&logoColor=A97FF1)
-<h2>Documentation</h2>
+<h2>About</h2>
 
-[![](https://img.shields.io/badge/WhiteCore-DOCS-A97FF1)](https://goo.su/tt7ffWD)
+This is an interpreter of your programming languages written in Python
 
 <h2>Links</h2>
 
 [![](https://img.shields.io/discord/980921193949450281?color=A97FF1&label=WhiteCore%20Discord%20Server)](https://discord.gg/qjpmHYZqjA)
+[![](https://img.shields.io/badge/WhiteCore-Documenation-A97FF1)](https://goo.su/tt7ffWD)
 
 <h2 >License</h2>
 
