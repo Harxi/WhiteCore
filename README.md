@@ -1,4 +1,4 @@
-![](https://media.discordapp.net/attachments/985143275688194060/992346051463876608/17_20220701112834.png)
+![](https://media.discordapp.net/attachments/987427169242345542/999629386078748753/80_20220721135000.png)
 <b>
 
 <h2>Info</h2>
